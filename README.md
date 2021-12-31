@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<a href="https://github.com/muhammed-usrbot"><img src="https://tenor.com/view/anime-smile-reina-izumi-cute-blush-gif-13857197.gif" alt="MUHAMMED"width="200" />
+<a href="https://github.com/muhammed-usrbot"><img src="https://tenor.com/view/anime-smile-reina-izumi-cute-blush-gif-13857197.gif" alt="TOXIDE-SER"width="200" />
  
 ## ANJALI
 
@@ -22,16 +22,16 @@
 
 
 <p align="center">
- <a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/repo creater-Muhammed-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919961050829?text=Hello%20Taurus%20Bro🌝...Im%20big%20fan%20of%20you%20😌"><img title="Author" src="https://img.shields.io/badge/owner-Akshay-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/repo creater-TOXIDE-SER-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919048329892?text=Hello%20TOXIDE-SER%20HELP🌝...Im%20big%20fan%20of%20you%20😌"><img title="Author" src="https://img.shields.io/badge/owner-TOXIDE-SER-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
-<a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/c/TAURUSEDITS"><img title="Author" src="https://img.shields.io/badge/Youtube-TAURUSEDITS-blue.svg?style=for-the-badge&logo=youtube" /></a>
+<a href="https://chat.whatsapp.com/LbEtdjqmtxa7jBmCrUdV7V"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/c/TOXIDEGAMER"><img title="Author" src="https://img.shields.io/badge/Youtube-TOXIDEGAMER-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/muhammed-usrbot/TAURUS-X3#requirements">Requirements</a> •
-  <a href="https://github.com/muhammed-usrbot/TAURUS-X3#simple method">Installation</a> •
-  <a href="https://github.com/muhammed-usrbot/TAURUS-X3#thanks-to">Thanks to Muhammed</a> 
+  <a href="https://github.com/TOXIDE-SER-444/ANJALI#requirements">Requirements</a> •
+  <a href="https://github.com/TOXIDE-SER-444/ANJALI#simple method">Installation</a> •
+  <a href="https://github.com/TOXIDE-SER-444/ANJALI#thanks-to">Thanks to TOXIDE-SER</a> 
 </p>
 </div>
 
@@ -56,8 +56,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 [`Click Here`](https://github.com/muhammed-usrbot/TAURUS-X3/blob/master/Taurus.json#L1)
 
 ## `SETTINGS`
-- CHANGE OWNER NUMBER [Here](https://github.com/muhammed-usrbot/TAURUS-X3/blob/master/setting.json#L2)
-- CHANGE OWNER NAME [Here](https://github.com/muhammed-usrbot/TAURUS-X3/blob/master/setting.json#L5)
+- CHANGE OWNER NUMBER [Here](https://github.com/TOXIDE-SER-444/ANJALI/blob/master/setting.json#L2)
+- CHANGE OWNER NAME [Here](https://github.com/TOXIDE-SER-444/ANJALI/blob/master/setting.json#L5)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -89,8 +89,8 @@ you can contact us
 
 # Thanks to
 
-* [`Muhammed`](https://github.com/muhammed-usrbot/Taurus-x3)
+* [`MUHAMMED`](https://github.com/muhammed-usrbot/Taurus-x3)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Akshay`](https://github.com/IAM-TOXIDE-SER)
+* [`TOXIDE-SER`](https://github.com/IAM-TOXIDE-SER)
 
 
