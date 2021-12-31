@@ -5,24 +5,24 @@
 <div align="center">
 <a href="https://github.com/muhammed-usrbot"><img src="https://c.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif" alt="MUHAMMED"width="200" />
  
-## TAURUS X3
+## ANJALI
 
 
-> Taurus x3 is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
+> anjali is a multipurpose WhatsApp bot using Adiwajshing-Baileys library!
 >
 >
 
   ### Simple Method
   
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-usrbo1/TAURUS-X3)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-userbot/TAURUS-X3)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/TAURUS-X3) 
 
 
 
 <p align="center">
- <a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-Muhammed-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919961050829?text=Hello%20Taurus%20Bro🌝...Im%20big%20fan%20of%20you%20😌"><img title="Author" src="https://img.shields.io/badge/Owner-Muhammed-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/repo creater-Muhammed-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919961050829?text=Hello%20Taurus%20Bro🌝...Im%20big%20fan%20of%20you%20😌"><img title="Author" src="https://img.shields.io/badge/owner-Akshay-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/c/TAURUSEDITS"><img title="Author" src="https://img.shields.io/badge/Youtube-TAURUSEDITS-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
@@ -91,5 +91,6 @@ you can contact us
 
 * [`Muhammed`](https://github.com/muhammed-usrbot)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`Akshay`](https://github.com/IAM-TOXIDE-SER)
 
 
