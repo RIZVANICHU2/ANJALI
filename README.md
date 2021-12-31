@@ -89,7 +89,7 @@ you can contact us
 
 # Thanks to
 
-* [`Muhammed`](https://github.com/muhammed-usrbot)
+* [`Muhammed`](https://github.com/muhammed-usrbot/Taurus-x3)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Akshay`](https://github.com/IAM-TOXIDE-SER)
 
