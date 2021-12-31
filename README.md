@@ -74,7 +74,7 @@ Sorry this repo is heroku only
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-Ajuser or we are not responsible for your account, 
+Taurus or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
