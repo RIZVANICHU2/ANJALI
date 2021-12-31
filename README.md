@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<a href="https://github.com/muhammed-usrbot"><img src="https://c.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif" alt="MUHAMMED"width="200" />
+<a href="https://github.com/muhammed-usrbot"><img src="https://tenor.com/view/anime-smile-reina-izumi-cute-blush-gif-13857197.gif" alt="MUHAMMED"width="200" />
  
 ## ANJALI
 
