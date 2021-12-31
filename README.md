@@ -17,12 +17,12 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-userbot/TAURUS-X3)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/TAURUS-X3) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIDE-SER-444/ANJALI) 
 
 
 
 <p align="center">
- <a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/repo creater-TOXIDE-SER-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919048329892?text=Hello%20TOXIDE-SER%20HELP🌝...Im%20big%20fan%20of%20you%20😌"><img title="Author" src="https://img.shields.io/badge/owner-TOXIDE-SER-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/repo creater-TOXIDESER-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+919048329892?text=Hello%20TOXIDE-SER%20HELP🌝...Im%20big%20fan%20of%20you%20😌"><img title="Author" src="https://img.shields.io/badge/owner-TOXIDESER-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 <a href="https://chat.whatsapp.com/LbEtdjqmtxa7jBmCrUdV7V"><img title="Author" src="https://img.shields.io/badge/Watsapp-Group-blue.svg?style=for-the-badge&logo=whatsapp" /></a> <a href="https://youtube.com/c/TOXIDEGAMER"><img title="Author" src="https://img.shields.io/badge/Youtube-TOXIDEGAMER-blue.svg?style=for-the-badge&logo=youtube" /></a>
 </p>
