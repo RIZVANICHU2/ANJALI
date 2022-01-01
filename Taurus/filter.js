@@ -11,7 +11,16 @@ ANJALI - TOXIDE SER
 bgm[
        'Athul
        'Akshay
-       'Bot
+       'akshay
+       'Anjali
+       'anjali
+       'Puli
+       'puli
+       'Toxide
+       'toxide
+       'Goutham
+       'bot
+       'SUBSCRIBED
        'help
        'menu
        '@919048329892
