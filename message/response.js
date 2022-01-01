@@ -53,4 +53,4 @@
         reply(`*${pushname2}*, 𝙰𝙺𝚂𝙷𝙰𝚈 𝚂𝙴𝚁 𝙷𝙴𝚁𝙴 𝙽𝚃𝙷 𝙱𝙴𝙽𝙼?`)
         const d = fs.readFileSync('./sticker/anjim.webp');
         denz.sendMessage(from, d, sticker, {quoted: mek, quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "_𝙏𝙊𝙓𝙄𝘿𝙀 𝙎𝙀𝙍_", 'jpegThumbnail': fs.readFileSync('./sticker/dnsnew.webp')}}}})
-    }
+     }
